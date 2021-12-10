@@ -1,0 +1,4 @@
+/home/mkirsche/jasmine_data/schatz_pipeline/ash_trio/hg002/hifi/winnowmap/HG002vGRCh38_wm_50md_PBCCS_sniffles.s2l20.refined.nSVtypes.ism.vcf
+/home/mkirsche/jasmine_data/schatz_pipeline/ash_trio/hg003/hifi/winnowmap/HG003vGRCh38_wm_50md_PBCCS_sniffles.s2l20.refined.nSVtypes.ism.vcf
+/home/mkirsche/jasmine_data/schatz_pipeline/ash_trio/hg004/hifi/winnowmap/HG004vGRCh38_wm_50md_PBCCS_sniffles.s2l20.refined.nSVtypes.ism.vcf
+
